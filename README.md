@@ -5,6 +5,9 @@
 > — ChatGPT   
 
 &nbsp;
+
+---
+
 &nbsp;
 &nbsp;
 
@@ -24,6 +27,19 @@ There are numerous variations of the prompt by simply replacing the verb 'provid
 &nbsp;
 
 ---
+
+&nbsp;
+
+## Prompts Win: Templates
+
+However, if you prefer to explore and utilize from templates, feel free to do so. Click to [view PW's Templates](https://www.notion.so/leeron/7056f0185e5f45689030ac46e502a37e?v=25af95a945be49a59231ba21c7886471) shared from my Notion.
+
 &nbsp;
 &nbsp;
 
+---
+
+&nbsp;
+
+### Useful links
+- [OpenAI Examples](https://platform.openai.com/examples)
