@@ -1,8 +1,9 @@
 # Prompts Win
 
 
-> AI & smart ***prompts*** pave the way to ***win*** in the age of information. 
-> by ChatGPT   
+> **AI & smart ***prompts*** pave the way to ***win*** in the age of information.**
+> &nbsp;   
+> *-by ChatGPT*   
 
 &nbsp;
 
