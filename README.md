@@ -1,7 +1,7 @@
 # Prompts Win
 
 
-> AI & smart prompts pave the way to win in the age of information. 
+> AI & smart ***prompts*** pave the way to ***win*** in the age of information. 
 > — ChatGPT
 
 
