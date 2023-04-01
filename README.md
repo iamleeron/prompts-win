@@ -33,7 +33,7 @@
 你没听错！提示语建议用英文。例如下班前你要发给领导下周产品拉新活动的介绍文案，你可以问ChatGPT: Please generate me a prompt for "产品拉新活动文案" in Chinese。下面是ChatGPT 3.5的执行截图（每个人看到的结果会有所不同）。当然我的任务描述很宽泛，你可以添加描述词让任务更具体，如”二手闲置交易App的拉新活动文案，要求通俗、简洁、吸睛"。
 
 <div align=center>
-<img width="50%" height="50%" src="https://pic.peo.pw/a/2023/04/01/6427abb52dc5c.png" alt="Ultrimate Prompt"  >
+<img width="592" height="760" src="https://pic.peo.pw/a/2023/04/01/6427abb52dc5c.png" alt="Ultrimate Prompt"  >
 </div>
 
 上面演示的终极提示语只是一种思路，类似表达形式还有很多。当然，你要把它当做模板也可以。
