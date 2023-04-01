@@ -6,61 +6,59 @@
 > *-by ChatGPT*   
 
 &nbsp;
+&nbsp;
+&nbsp;
+
+建了 **[赢在指令](prompts.win)** 这个网页，本想分门别类介绍指令或提示语（prompts）使用技巧。但后来意识到很多人难上手的问题，除中美两地大家存在的认知与使用时间差外，主要还是**指令式思维**尚未迁移、转换或形成。想想你自己在学习、工作或生活中主要是接受别人的指令、命令，还是自己发号施令？
+
+模板或技巧较适用入门上手或是满足好奇。所以，觉得没必要堆积大量指令示例模版增加大家认知和使用负担。相信你来这里也不是为看这些跟自己不相干的行业或任务提示语，而是为能快速上手使用。
+
+事实上，我认为掌握以下两点就能马上用起来并用好：
+
+&nbsp;
+
+
+## 1. 终极提示语
+
+当你不知道该用什么指令让AI帮你做事时，你就直接问TA指令该怎么写，如：
+
+> **Please generate me a prompt for "任务" in Chinese** 
+
+
+
+你没听错！提示语建议用英文。例如下班前你要发给领导下周产品拉新活动的介绍文案，你可以问ChatGPT: Please generate me a prompt for "产品拉新活动文案" in Chinese。下面是ChatGPT 3.5的执行截图（每个人看到的结果会有所不同）。当然我的任务描述很宽泛，你可以添加描述词让任务更具体，如”二手闲置交易App的拉新活动文案，要求通俗、简洁、吸睛"。
+
+<div align=center>
+<img width="50%" height="50%" src="https://pic.peo.pw/a/2023/04/01/6427abb52dc5c.png" alt="Ultrimate Prompt"  >
+</div>
+
+上面演示的终极提示语只是一种思路，类似表达形式还有很多。当然，你要把它当做模板也可以。
+
+&nbsp;
+
+## 2. 指令式思维
+
+孙悟空有72般变化，他只要喊一声“变”就行，至于变成什么都由他大脑控制。生成式人工智能虽然有千般武艺，但它是你的外脑！你需要以指令或提示语明白告诉它做什么（至少在当前技术阶段）。这其实很考察你的指令式思维，你可以按照下面框架要素对比和体会：
+
+- **场景**：~~主要是任务背景，为什么要做某事；如果是给下属分配任务，因为涉及激励或尊重很重要。但对AI机器人可以忽略，除非场景有对任务的限定信息。~~
+- **角色**：简单说，如果你是老板，你打算把AI拿来当什么“人”用。宽泛的如翻译者、文秘，作为大语言模型文字本身不用特别说明；但涉及到具体专业领域时，需要在提示语里特别指出你期望它担任的角色，你也可以加期望特征或限定，如资深或专业的公司并购律师。由于我们自己或接受任务的人在某生活与工作场景中身份确定，所以只专注事情跟要求；但这种惯性思维会导致忽略AI扮演角色，其结果就像招聘找了个不合适的“人”。
+- **动作**：执行的操作是什么，也就是你招的AI这个“人”要做啥；如编写、翻译、接待...
+- **任务+要求**：AI这个“人”要把什么做成什么样，你期望任务完成的样子或结果是什么样的；如文案；5个、有说服力、100字...
+
+归纳说下：你给AI的指示语或意图中角色、任务+要求部分要尽可能清晰；动作动词选词准确即可。工作生活中对动作或谓语修饰的状语对AI意义不大可省略，你也不会跟它说下班前、尽快...啥的。
+
+先说这么多，你可以亲自去对比下文章看完前后输出的变化啦。若有其他使用技巧、启发或思考，我会在这个[Github](https://github.com/iamleeron/prompts-win)页面上持续更新。也欢迎大家分享自己的经验和见解，让我们一起探索和学习更好将AI融入生活与工作。
+
+&nbsp;
+
+
 
 ---
 
-&nbsp;
-&nbsp;
-
-## THE ULTIMATE PROMPTS WIN
-
-When utilizing generative AI tools like ChatGPT, the quality of the output is largely determined by the ***effectiveness of your prompt***. However, you don't need to remember or handle an extensive list of sample prompts. Instead, just focus on mastering this versatile one:
-
-
-### 💎 **Please provide me with a prompt to... (accomplish a specific task or achieve a particular goal)**
+<div align=center>
+<img width="210" height="210" src="https://pic.peo.pw/a/2023/04/01/6427b65a4dfd4.jpg"  alt="WeChat Code" >
 
 &nbsp;
 
-
-There are numerous variations of the prompt by simply replacing the verb 'provide' with alternatives such as '**give**', '**generate**', and more. By employing these adaptable prompts, you can optimize your interactions with AI tools and efficiently obtain the desired results.   
-
-
-&nbsp;
-
-**Example: If I want to create a product introduction**
-- > PW: Please provide me with a prompt to create attractive product introductions.
-&nbsp;
-
-  > AI: Sure, here's a prompt to create attractive product introductions:
-&nbsp;
-
-  > Imagine you are launching a new product that you believe has the potential to revolutionize the market. The challenge is to introduce it in a way that grabs people's attention and gets them excited about the possibilities. In 150 words or less, create a product introduction that highlights the key features and benefits of your new product while also creating a sense of excitement and urgency. Think about the tone and language you use, as well as the overall structure and flow of the introduction. Remember to keep it concise, clear, and engaging to make your product stand out in a crowded marketplace.
-
-- Then, I copied this prompt to ask again and got an introduction from ChatGPT.
-&nbsp;
-
-  > Introducing the game-changing new product that will transform the way you live: the SmartHome Hub. With its cutting-edge technology and sleek design, this hub will revolutionize the way you interact with your home. Connect all of your smart devices, from thermostats to cameras, to the SmartHome Hub and easily manage them all from one central location. With voice commands, you can adjust your home's temperature, lock your doors, and even turn on your favorite playlist. With the SmartHome Hub, you'll save time and energy, and enjoy the peace of mind that comes with knowing you can control every aspect of your home with just a few simple commands. Say goodbye to the hassle of managing multiple apps and devices and hello to the future of home automation. Order your SmartHome Hub now and experience the convenience and ease of a truly connected home.
-
-&nbsp;
-😂 That's it！
-
-&nbsp;
-&nbsp;
-
----
-
-&nbsp;
-
-## Prompts Win: Templates
-
-However, if you prefer to explore and utilize from templates, feel free to do so. Click to [view PW's Templates](https://www.notion.so/leeron/7056f0185e5f45689030ac46e502a37e?v=25af95a945be49a59231ba21c7886471) shared from my Notion.
-
-&nbsp;
-&nbsp;
-
----
-
-&nbsp;
-
-### Useful links
-- [OpenAI Examples](https://platform.openai.com/examples)
+如果有帮助，感谢扫描打个赏 😄 
+</div>
